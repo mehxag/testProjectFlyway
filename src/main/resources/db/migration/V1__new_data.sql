@@ -1,0 +1,4 @@
+CREATE TABLE TEST_ENTITY (
+    id integer
+);
+INSERT INTO TEST_ENTITY (id) VALUES (1);
