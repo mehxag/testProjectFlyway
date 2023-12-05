@@ -1,6 +1,6 @@
 package com.testproject.rest;
 
-import com.testproject.entyti.TestEntity;
+import com.testproject.entity.TestEntity;
 import com.testproject.servise.TestService;
 import lombok.RequiredArgsConstructor;
 import org.springframework.web.bind.annotation.GetMapping;

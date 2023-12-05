@@ -1,6 +1,6 @@
 package com.testproject.servise;
 
-import com.testproject.entyti.TestEntity;
+import com.testproject.entity.TestEntity;
 
 import java.util.List;
 

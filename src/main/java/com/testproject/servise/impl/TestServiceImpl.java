@@ -1,6 +1,6 @@
 package com.testproject.servise.impl;
 
-import com.testproject.entyti.TestEntity;
+import com.testproject.entity.TestEntity;
 import com.testproject.repository.TestRepository;
 import com.testproject.servise.TestService;
 import org.springframework.stereotype.Service;

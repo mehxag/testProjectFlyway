@@ -1,6 +1,6 @@
 package com.testproject.repository;
 
-import com.testproject.entyti.TestEntity;
+import com.testproject.entity.TestEntity;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.data.jpa.repository.Query;
 import org.springframework.stereotype.Repository;
